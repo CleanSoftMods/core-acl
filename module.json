@@ -1,5 +1,5 @@
 {
-    "alias": "webed-acl",
+    "alias": "cleansoft-acl",
     "name": "WebEd ACL",
     "author": "Tedozi Manson - <a href=\"https://github.com/duyphan2502\">https://github.com/duyphan2502</a>",
     "description": "Access control list package. Handle user permissions, roles.",
