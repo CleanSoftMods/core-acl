@@ -1,16 +1,17 @@
 {
-    "name": "sgsoft-studio/acl",
-    "description": "WebEd ACL",
-    "license": "MIT",
-    "homepage": "http://sgsoftware.net",
+    "name": "cleansoftmods/acl",
+    "description": "CleanSoftMods ACL",
+    "license": "",
+    "version": "4.0.0",
+    "homepage": "",
     "support": {
-        "issues": "https://github.com/sgsoft-studio/acl/issues",
-        "source": "https://github.com/sgsoft-studio/acl"
+        "issues": "",
+        "source": ""
     },
     "authors": [
         {
-            "name": "Tedozi Manson",
-            "email": "duyphan.developer@gmail.com"
+            "name": "",
+            "email": ""
         }
     ],
     "require": {
@@ -18,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "WebEd\\Base\\ACL\\": "src"
+            "CleanSoft\\Modules\\Core\\ACL\\": "src"
         },
         "files": [
 
