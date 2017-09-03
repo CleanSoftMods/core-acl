@@ -2,6 +2,7 @@
     "name": "sgsoft-studio/acl",
     "description": "WebEd ACL",
     "license": "MIT",
+    "version": "4.0.0",
     "homepage": "http://sgsoftware.net",
     "support": {
         "issues": "https://github.com/sgsoft-studio/acl/issues",
